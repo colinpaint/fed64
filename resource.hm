@@ -1,0 +1,11 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by Fed.rc
+//
+#define HIDC_EXT_NEW                    0x807703fd    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_EXT_REGISTER               0x807703ff    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_EXT_REGISTER_ALL           0x80770404    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_EXT_REMOVE                 0x807703fe    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_EXT_UNREGISTER             0x80770400    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_EXT_UNREGISTER_ALL         0x80770405    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_LANGUAGE_REMOVE            0x807703f5    // IDD_EXTENSION_PAGE [English (U.S.)]
+#define HIDC_LANGUAGE_SAVE              0x807703f7    // IDD_EXTENSION_PAGE [English (U.S.)]
